@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My cool css website</title>
+</head>
+<body>
+	<h1>You are welcome to my css website</h1>
+</body>
+</html>
